@@ -5,9 +5,10 @@ TraceAtlas is an original, responsive OSINT resource directory inspired by the i
 ## Included
 
 - Responsive home page and category directory
-- Searchable tool catalog with filters
+- Complete 18-category directory map with source-index counts
+- Searchable local catalog with 92 independently written tool records
 - Three-step interactive tool finder
-- Methods index and detailed workflow pages
+- 40 method pages with preparation, numbered steps, toolkits, pitfalls, verification gates and required outputs
 - Searchable OSINT glossary
 - Journal, about, contact, privacy and terms views
 - Static, dependency-free deployment for Vercel
