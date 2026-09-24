@@ -8,11 +8,7 @@
     },
     {
       "source": "/legacy",
-      "destination": "/site/dist/index.html"
-    },
-    {
-      "source": "/assets/:path*",
-      "destination": "/public/:path*"
+      "destination": "/legacy.html"
     }
   ],
   "headers": [
